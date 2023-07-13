@@ -1,3 +1,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=finimage)](https://solved.ac/finimage)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=finimage&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=finimage&theme=dark)   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finimage)](https://github.com/finimage/github-readme-stats)  
